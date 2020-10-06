@@ -39,7 +39,7 @@ async def typewriter(typew):
 
 @register(outgoing=True, pattern='^.smm(?: |$)(.*)')
 async def typewriter(typew):
-	message = typew.pattern_match_group(0)
+	message = typew.pattern_match.group(0)
 	sleep(0)
 	await typew.edit("**PRICE LIST** **WEBSITE**\n"
 			 f"━━━━━━━━━━━━━━━━━━━━━━━━\n"
