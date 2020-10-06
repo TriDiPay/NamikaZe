@@ -52,12 +52,13 @@ async def typewriter(typew):
 			 f"━━━━━━━━━━━━━━━━━━━━━━━━\n"
 			 f"**WEB SOSIAL MEDIA MARKETING & PPOB**\n"
 			 f"\n"
-			 f"Menggunakan System PHP Native \n"
-			 f"Insyallah Aman Dari SQL Injection\n"
-			 f"Deposit Otomatis BCA DAN OVO\n"
-			 f"Auto Refund And Status\n"
-			 f"Sudah Terpasang Operan ke beberapa Provider\n"
-			 f"PM @ArdanzPanel"
+			 f"* Menggunakan System PHP Native \n"
+			 f"* Insyallah Aman Dari SQL Injection\n"
+			 f"* Deposit Otomatis BCA DAN OVO\n"
+			 f"* Auto Refund And Status\n"
+			 f"* Sudah Terpasang Operan ke beberapa Provider\n"
+			 f"━━━━━━━━━━━━━━━━━━━━━━━━\n"
+			 f"PM @ArdanzPanel\n"
 			 f"Lihat Tampilan : [Klik Disini](https://bit.ly/ard-panel)")
 			 
 	
