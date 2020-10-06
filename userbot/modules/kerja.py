@@ -58,7 +58,6 @@ async def typewriter(typew):
 			 f"Auto Refund And Status\n"
 			 f"Sudah Terpasang Operan ke beberapa Provider\n"
 			 f"Lihat Tampilan : [Klik Disini](https://bit.ly/ard-panel)")
-			 f"━━━━━━━━━━━━━━━━━━━━━━━━\n"
 			 f"PM @ArdanzPanel")
 			 
 	
