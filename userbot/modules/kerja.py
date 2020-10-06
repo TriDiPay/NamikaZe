@@ -57,8 +57,8 @@ async def typewriter(typew):
 			 f"Deposit Otomatis BCA DAN OVO\n"
 			 f"Auto Refund And Status\n"
 			 f"Sudah Terpasang Operan ke beberapa Provider\n"
+			 f"PM @ArdanzPanel"
 			 f"Lihat Tampilan : [Klik Disini](https://bit.ly/ard-panel)")
-			 f"PM @ArdanzPanel")
 			 
 	
 	
