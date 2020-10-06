@@ -185,7 +185,7 @@ async def typewriter(typew):
 async def typewriter(typew):
 	message = typew.pattern_match.group(0)
 	sleep(0)
-	await typew.edit("`Maaf baru online, ada apa bosqu?` \n#LazaBot")
+	await typew.edit("`Maaf baru online, ada apa bosqu?` \n#ArdBOT")
 	
 	# Create by myself @JejakCheat
 
